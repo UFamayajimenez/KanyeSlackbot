@@ -1,0 +1,15 @@
+{
+  "name": "kanye-slackbot",
+  "version": "1.0.0",
+  "description": "A Slackbot that will return a random quote from Kanye West",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Amaya Jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.2.0"
+  }
+}
