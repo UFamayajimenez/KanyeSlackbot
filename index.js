@@ -4,16 +4,12 @@ const axios = require('axios');
 
 const myBot = new SlackBot({
 
-
-
-  token: (insert impotant token here),
-
-
+  token: 'xoxb-636755990758-634061387620-X9ko4ECHHSJVg5KdKTvgY4yB',
    name: 'kanye'
 
 
 });
-
+//Did I fix my github account :eyes:
 //Start Handler
 
 myBot.on('start', () => {
